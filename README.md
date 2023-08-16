@@ -1,5 +1,3 @@
-# The Tool will be published in a day or two
-
 # Programming Language Percentage
 A Tool to Calculate the Percentage of Programming Languages used.
 
@@ -8,6 +6,11 @@ A Tool to Calculate the Percentage of Programming Languages used.
   
     1: By the Text in the files (despite the extension).  
     2: By the extension of the file (Recommended for exact Percentage Calculation).  
+
+# Prerequisites
+  Before running the "PLP.pyc" file run this command with the requirements.txt file in the same directory where you are running the command  
+  
+    pip install -r requirements.txt
 
 # How to Use?
   Before starting place the "PLP.pyc" file in the directory of your choice, then start the application follow the steps and you will get the percentage of programming languages used in the files of the directory
