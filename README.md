@@ -4,7 +4,7 @@ A Tool to Calculate the Percentage of Programming Languages used.
 # Mode
   The Application has 2 Mode for Calculating the Percentage of the Languages used:  
   
-    1: By the Text in the files (despite the extension).  
+    1: By the Text in the files (without the extension).  
     2: By the extension of the file (Recommended for exact Percentage Calculation).  
 
 # Prerequisites
